@@ -3,7 +3,7 @@ void PrintArr(){
     puts("");
     for (int i = 0; i < n; i++)
     {
-        printf("\t        ", i + 1);
+        printf("\t        ");
         for(int j = 0;j < n; j++)
             printf("%c     ", arr[i][j]);
         puts("\n");

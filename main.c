@@ -12,7 +12,7 @@ int n = 3;
 #include "brain.h"
 
 int main()
-{
+{   
     PrintArr();
     while (true)
     {

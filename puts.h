@@ -1,4 +1,9 @@
 void Randoms(){
+
+    if (arr[1][1] == 53){
+        arr[1][1] = 'X';
+    }
+
     srand(time(NULL));
     int x = 0;
     for (int i = 0; i < n*n; i++){

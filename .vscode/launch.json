@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/lenovo/Desktop/Najot talim/Project/TicTac",
-      "program": "c:/Users/lenovo/Desktop/Najot talim/Project/TicTac/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/uznetdev/Desktop/ najot ta'lim/python/c/project/TicTac",
+      "program": "/home/uznetdev/Desktop/ najot ta'lim/python/c/project/TicTac/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

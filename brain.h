@@ -14,17 +14,6 @@ void Brain(int x1, int x2, int x3, int y1, int y2, int y3, int x, int y)
     int check_my_y_2 = CheckMyY2();
     int check_my_y_3 = CheckMyY3();
 
-    // printf("\nX %d\n", check_my_x);
-    // printf("Y %d\n", check_my_y);
-
-    // printf("X1 %d \n", check_my_x_1);
-    // printf("X2 %d \n", check_my_x_2),
-    // printf("X3 %d \n", check_my_x_3);
-
-    // printf("Y1 %d \n", check_my_y_1);
-    // printf("Y2 %d \n", check_my_y_2),
-    // printf("Y3 %d \n", check_my_y_3);
-
     if (check_my_x == 2)
         PutX();
     else if (check_my_y == 2)
