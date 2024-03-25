@@ -2,6 +2,7 @@ void Randoms(){
 
     if (arr[1][1] == 53){
         arr[1][1] = 'X';
+        return ;
     }
 
     srand(time(NULL));
